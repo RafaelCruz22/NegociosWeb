@@ -5,7 +5,6 @@
     $msg ="";
     
     if(isset($_POST["btnprc"])){
-        // eleve el numero 1 a la potencia del numero 2
         $numero1 = intval($_POST["numero1"]);
         $numero2 = intval($_POST["numero2"]);
         $newValue = $numero1;

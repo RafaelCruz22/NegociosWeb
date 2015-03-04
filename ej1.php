@@ -3,7 +3,7 @@
     $txt1 = "";
     if(isset($_POST["btn1"])){
         $txt1 = $_POST["btn1"];
-        $msg = "buenas noches"
+        $msg = "buenas noches";
     }
 ?>
 <!DOCTYPE html>
